@@ -8,6 +8,6 @@ Almost all of us know how to play the famous game named **Sudoku**, but only few
 > - Each variable will be defined in this domain [1,9]
 > ### Constraints:
 > 1. Constraint for raw (in every raw, we shouldn't have two variable with the same value).
-> 2. Contsraint for columns (in every column, we shouldn't have two variable with the same value)..
-> 3. Constraint for squares (in every square, we shouldn't have two variable with the same value)..
+> 2. Contsraint for columns (in every column, we shouldn't have two variable with the same value).
+> 3. Constraint for squares (in every square, we shouldn't have two variable with the same value).
 
